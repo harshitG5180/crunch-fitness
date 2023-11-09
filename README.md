@@ -1,8 +1,20 @@
-# React Fitness Application
+![Crunch Fitness](https://i.ibb.co/JdjFb8q/image.png)
+# Exercises App
 
-![React Fitness Application](https://i.ibb.co/Yt9spGc/image.png)
+This is a modern React 18 Fitness Exercises App with the functionality to choose exercise categories and specific muscle groups, browse more than one thousand exercises with practical examples, pagination, exercise details, pull related videos from youtube, display similar exercises, and much more.
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+## Features
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+  - Fully responsive for all screen sizes.
+- Search Exercise, Muscle Group or equipment.
+- Youtube video suggesions for the detailed overview of exercises.
+- Recomanding exercises based on simmilar muscle group.
+- Recomanding exercises done on simmilar equipment.
+
+
+## Tech Stack
+
+**Client:** React, React Hooks, Material UI(5)
+
+**API:** Rapid API Exercises DB, YT Search API
+

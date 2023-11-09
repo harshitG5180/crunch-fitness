@@ -14,6 +14,7 @@ export const youtubeOptions = {
   },
 };
 
+// Here options are like credentials 
 export const fetchData = async (url, options) => {
   const res = await fetch(url, options);
   const data = await res.json();
